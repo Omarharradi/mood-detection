@@ -1,5 +1,5 @@
 
-![Demo][video.gif]
+![Demo](video.gif)
 # Emotion Detection from Video
 
 This project utilizes a computer vision model to detect emotions from video feeds in real-time. Using the `FER` (Facial Emotion Recognition) library, the application captures video from the webcam, analyzes facial expressions, and displays the detected emotions along with their confidence levels.
