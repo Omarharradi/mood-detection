@@ -2,7 +2,7 @@ import cv2
 from fer import FER
 
 # Initialize the camera
-cap = cv2.VideoCapture(1)  # Ensure the correct camera index
+cap = cv2.VideoCapture(0)  # Ensure the correct camera index
 
 # Initialize the FER emotion detector
 emotion_detector = FER()
